@@ -1,4 +1,4 @@
-I have created an interactive dashboard for sales data of different E-commerce websites considering following parameters in Excel.
+I have created an Interactive dashboard for sales data of different E-commerce websites considering following parameters in Excel.
 
    1) Month of sales
    2) Gender based sales
